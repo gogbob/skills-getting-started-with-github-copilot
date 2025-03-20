@@ -74,9 +74,15 @@ section h3 {
   margin-bottom: 8px;
 }
 
-.activity-card p strong {
-  display: block;
+.activity-card ul {
   margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.activity-card ul li {
+  margin-bottom: 5px;
+  color: #555;
 }
 
 .form-group {
